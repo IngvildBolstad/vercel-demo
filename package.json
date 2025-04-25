@@ -19,5 +19,19 @@
     "mysql2": "^3.9.7",
     "sequelize": "^6.27.0",
     "sqlite3": "^5.0.2"
-  }
+  },
+  "description": "![](http://images.restapi.co.za/pvt/Noroff-64.png)\r # Back-end Development Year 1",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngvildBolstad/vercel-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngvildBolstad/vercel-demo/issues"
+  },
+  "homepage": "https://github.com/IngvildBolstad/vercel-demo#readme"
 }
